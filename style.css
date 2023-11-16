@@ -81,7 +81,7 @@ h4{
 }
 .logo{
     display: block;
-    background-image: url(../greenvines/img/logo.png);
+    background-image: url(img/logo.png);
     background-size: 120px ;
     background-repeat: no-repeat;
     background-position: 60% 0;
@@ -122,7 +122,7 @@ h4{
     float: right;
 }
 .search{
-    background-image: url(../greenvines/img/ico-search.svg);
+    background-image: url(img/ico-search.svg);
     background-repeat: no-repeat;
     background-position: 0 40% ;
     background-size: 20px;
@@ -135,7 +135,7 @@ h4{
 }
 .member a{
     display: block;
-    background-image: url(../greenvines/img/ico-member.svg);
+    background-image: url(img/ico-member.svg);
     background-repeat: no-repeat;
     text-indent: 101%;
     white-space: nowrap;
@@ -160,7 +160,7 @@ h4{
 }
 .buy a{
     display: block;
-    background-image: url(../greenvines/img/ico-cart.svg);
+    background-image: url(img/ico-cart.svg);
     background-repeat: no-repeat;
     text-indent: 101%;
     white-space: nowrap;
@@ -270,7 +270,7 @@ h4{
     height: 25px;
     vertical-align:text-bottom;
     margin-right: 8px;
-    background-image: url(../greenvines/img/ico-plus.png);
+    background-image: url(img/ico-plus.png);
     background-repeat: no-repeat;
     background-size: 25px;
 }
@@ -490,7 +490,7 @@ h4{
     height: auto;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(../greenvines/img/desk.jpeg);
+    background-image: url(img/desk.jpeg);
 }
 .method-text{
     margin: 5% 5% 5% 4%;
